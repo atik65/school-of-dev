@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "course": "Kristoforo",
+    "image": "../src/images/android.png",
+    "price": 12913
+  },
+  {
+    "id": 2,
+    "course": "Wolfgang",
+    "image": "http://dummyimage.com/183x100.png/5fa2dd/ffffff",
+    "price": 8779
+  },
+  {
+    "id": 3,
+    "course": "Katey",
+    "image": "http://dummyimage.com/224x100.png/dddddd/000000",
+    "price": 11332
+  },
+  {
+    "id": 4,
+    "course": "Ewan",
+    "image": "http://dummyimage.com/182x100.png/ff4444/ffffff",
+    "price": 9204
+  },
+  {
+    "id": 5,
+    "course": "Elly",
+    "image": "http://dummyimage.com/194x100.png/5fa2dd/ffffff",
+    "price": 13275
+  },
+  {
+    "id": 6,
+    "course": "Jacki",
+    "image": "http://dummyimage.com/239x100.png/ff4444/ffffff",
+    "price": 8260
+  },
+  {
+    "id": 7,
+    "course": "Andree",
+    "image": "http://dummyimage.com/182x100.png/ff4444/ffffff",
+    "price": 10697
+  },
+  {
+    "id": 8,
+    "course": "Andrej",
+    "image": "http://dummyimage.com/120x100.png/5fa2dd/ffffff",
+    "price": 10920
+  },
+  {
+    "id": 9,
+    "course": "Loydie",
+    "image": "http://dummyimage.com/238x100.png/ff4444/ffffff",
+    "price": 13419
+  },
+  {
+    "id": 10,
+    "course": "Heall",
+    "image": "http://dummyimage.com/142x100.png/ff4444/ffffff",
+    "price": 14558
+  }
+]
