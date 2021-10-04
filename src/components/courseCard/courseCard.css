@@ -36,3 +36,10 @@
 .courseCard:hover::after {
   width: 80%;
 }
+
+@media only screen and (max-width: 720px) {
+  .courseCard img {
+    width: 100%;
+    padding-right: 10px;
+  }
+}

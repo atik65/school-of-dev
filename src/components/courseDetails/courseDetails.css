@@ -1,4 +1,4 @@
-.courseDetails img {
+.courseDetials-img-svg {
   width: 80%;
 }
 
@@ -7,6 +7,24 @@
 }
 
 .courseDetials-img {
+  width: 80%;
   border-radius: 20px;
   height: 280px;
+}
+
+@media only screen and (max-width: 720px) {
+  .courseDetials-img-svg {
+    width: 100%;
+    padding-bottom: 30px;
+  }
+
+  .courseDetails {
+    padding: 40px 20px;
+  }
+
+  .courseDetials-img {
+    width: 100%;
+    border-radius: 20px;
+    height: 180px;
+  }
 }

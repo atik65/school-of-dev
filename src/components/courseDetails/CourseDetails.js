@@ -24,7 +24,7 @@ const CourseDetails = () => {
     <div>
       <div className="row courseDetails">
         <div className="col-md-6 pt-5">
-          <img src={image} alt="" />
+          <img className="courseDetials-img-svg" src={image} alt="" />
         </div>
         <div className="col-md-6">
           <h2 className="pb-3">Course: {filterd?.course}</h2>
