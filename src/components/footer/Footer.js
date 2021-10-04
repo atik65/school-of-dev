@@ -13,7 +13,7 @@ const Footer = () => {
             <ImLocation /> Dhaka 1215
           </p>
           <p>
-            <FcPhone /> +88011111111111
+            <FcPhone /> +8801111111111
           </p>
           <p>
             <AiOutlineMail /> demo@email.com

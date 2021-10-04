@@ -8,6 +8,7 @@ import PageNotFound from "./components/error/PageNotFound";
 import CourseDetails from "./components/courseDetails/CourseDetails";
 import Contact from "./components/contact/Contact";
 import Login from "./components/login/Login";
+import AboutUs from "./components/aboutUs/AboutUs";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
           <Route exact path="/courses" component={Courses} />
           <Route exact path="/contact" component={Contact} />
           <Route exact path="/login" component={Login} />
+          <Route exact path="/aboutus" component={AboutUs} />
 
           <Route component={PageNotFound} />
         </Switch>
