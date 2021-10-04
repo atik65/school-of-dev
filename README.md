@@ -1,6 +1,6 @@
 # Its an educationl Website (School of Development)
 
-### We are using --
+### I am using --
 
 - React App
 - React Bootstrap
