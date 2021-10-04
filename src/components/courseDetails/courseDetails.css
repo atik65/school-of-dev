@@ -1,0 +1,12 @@
+.courseDetails img {
+  width: 80%;
+}
+
+.courseDetails {
+  padding: 40px 20px;
+}
+
+.courseDetials-img {
+  border-radius: 20px;
+  height: 280px;
+}

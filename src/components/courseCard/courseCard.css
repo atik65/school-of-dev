@@ -1,0 +1,38 @@
+.courseCard img {
+  width: 80%;
+  height: 160px;
+  scale: 1;
+  border-top: 5px solid #fff;
+  border-radius: 5px;
+}
+
+.courseCard p {
+  font-weight: 600;
+}
+
+.courseCard {
+  position: relative;
+  cursor: pointer;
+  overflow-y: hidden;
+}
+.courseCard a {
+  color: black;
+  text-decoration: none;
+}
+.courseCard::after {
+  content: "";
+  height: 2px;
+  width: 0%;
+  background-color: #102040;
+  position: absolute;
+  top: 0;
+  border-radius: 5px;
+  transition: all 0.3s;
+}
+.courseCard:hover a {
+  color: black;
+}
+
+.courseCard:hover::after {
+  width: 80%;
+}

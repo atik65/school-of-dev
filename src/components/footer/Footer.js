@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <div className="footer">
       <div className="row">
-        <div className="col-6 p-5">
+        <div className="col-md-6 p-5 pb-2">
           <p>
             <ImLocation /> Dhaka 1215
           </p>
@@ -19,7 +19,7 @@ const Footer = () => {
             <AiOutlineMail /> demo@email.com
           </p>
         </div>
-        <div className="col-6 p-5">
+        <div className="col-md-6 p-5 pb-2">
           <h4 className="">About us</h4>
           <small>
             Teaching is one of the most challenging and complex jobs on the
@@ -30,6 +30,8 @@ const Footer = () => {
           </small>
         </div>
       </div>
+
+      <small className="px-3 ">&copy; All Rights Reserved</small>
     </div>
   );
 };

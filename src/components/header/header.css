@@ -3,6 +3,9 @@
   color: #fff;
   padding: 20px 0;
 }
+.header img {
+  width: 35px;
+}
 
 .header ul {
   display: flex;
@@ -26,4 +29,43 @@
 .header a:hover {
   color: #fff;
   background-color: #0080f04d;
+}
+
+@media only screen and (max-width: 720px) {
+  .header li {
+    padding: 15px 0px;
+    padding-right: 5px;
+  }
+  .header a {
+    font-size: 18px;
+    padding: 8px 5px;
+    padding-right: 5px;
+    transition: all 0.3s;
+  }
+  .header ul {
+    padding: 0;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .header h2 {
+    font-size: 20px;
+  }
+  .header small {
+    font-size: 11px;
+  }
+  .header li {
+    padding: 15px 0px;
+    padding-right: 3px;
+  }
+  .header a {
+    font-size: 16px;
+    padding: 8px 5px;
+    padding-right: 5px;
+    transition: all 0.3s;
+  }
+  .header ul {
+    padding-left: 5px;
+    justify-content: flex-start;
+  }
 }
