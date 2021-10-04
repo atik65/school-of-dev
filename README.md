@@ -2,7 +2,9 @@
 
 ### We are using --
 
+- React App
 - React Bootstrap
+- Bootstrap 5.1
 - React Icon
 - React Router 
 
