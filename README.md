@@ -1,5 +1,5 @@
 # Its an educationl Website (School of Development)
-Live Website : https://dreamy-tereshkova-b60970.netlify.app/
+Live Website : https://school-of-development-dynamic-route.netlify.app/
 
 ##About Website
 - School of Development
